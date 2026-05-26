@@ -22,5 +22,5 @@ Sou **Desenvolvedor Full Stack** com sólida bagagem em infraestrutura de TI, co
 ---
 
 📬 **Como me encontrar:**
-- **LinkedIn:** [://linkedin.com](https://://linkedin.com) *(Ajuste com o link do seu perfil)*
+- **LinkedIn:** [rafaelmachadodev](https://www.linkedin.com/in/rafaelmachadodev/)
 - **Portfólio:** [rafaelmachadodev.vercel.app](https://vercel.app)
