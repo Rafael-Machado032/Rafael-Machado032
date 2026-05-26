@@ -18,6 +18,13 @@ Sou **Desenvolvedor Full Stack** com sólida bagagem em infraestrutura de TI, co
   <!-- Badges de Atividade à Prova de Falhas -->
   <img src="https://shields.io" alt="Followers" height="35" />
 </p>
+## 📊 Minhas Estatísticas do GitHub
+
+<p align="left">
+  <img src="https://vercel.app" alt="Estatísticas do GitHub" height="150" />
+  <img src="https://vercel.app" alt="Linguagens Mais Usadas" height="150" />
+</p>
+
 
 ---
 
