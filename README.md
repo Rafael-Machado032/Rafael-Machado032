@@ -9,20 +9,11 @@ Sou **Desenvolvedor Full Stack** com sólida bagagem em infraestrutura de TI, co
 - **Bancos de Dados:** MySQL / PostgreSQL
 - **Infraestrutura & Redes:** Linux / MikroTik / Protocolo SIP / Redes IP
 
-## 📊 Estatísticas do GitHub
-
-<p align="left">
-  <!-- Gráfico de Linguagens Dinâmico e Estável -->
-  <img src="https://vercel.app" alt="Top Languages" height="150" />
-  
-  <!-- Badges de Atividade à Prova de Falhas -->
-  <img src="https://shields.io" alt="Followers" height="35" />
-</p>
 ## 📊 Minhas Estatísticas do GitHub
 
 <p align="left">
-  <img src="https://vercel.app" alt="Estatísticas do GitHub" height="150" />
-  <img src="https://vercel.app" alt="Linguagens Mais Usadas" height="150" />
+  <img src="github-readme-stats-ten-eta-91.vercel.app" alt="Estatísticas do GitHub" height="150" />
+  <img src="github-readme-stats-ten-eta-91.vercel.app/api/top-langs/?username=Rafael-Machado032" alt="Linguagens Mais Usadas" height="150" />
 </p>
 
 
