@@ -20,10 +20,12 @@ Sou **Desenvolvedor Full Stack** com sólida bagagem em infraestrutura de TI, co
    <img src="https://github-readme-stats-ten-eta-91.vercel.app/api/top-langs/?username=Rafael-Machado032&layout=compact&theme=dark&locale=pt-br" alt="Linguagens Mais Usadas" />
 </p>
 
-
 ## 🐍 Meu Tabuleiro de Contribuições
 
-<img alt="GitHub Snake Game" src="https://github.com" width="100%" />
+<div align="center">
+  <img alt="GitHub Snake Game" src="https://githubusercontent.com/Rafael-Machado032/Rafael-Machado032/output/github-contribution-grid-snake.svg" width="100%" />
+</div>
+
 
 
 ---
