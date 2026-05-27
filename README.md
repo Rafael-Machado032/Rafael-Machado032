@@ -20,7 +20,11 @@ Sou **Desenvolvedor Full Stack** com sólida bagagem em infraestrutura de TI, co
    <img src="https://github-readme-stats-ten-eta-91.vercel.app/api/top-langs/?username=Rafael-Machado032&layout=compact&theme=dark&locale=pt-br" alt="Linguagens Mais Usadas" />
 </p>
 
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rafael-Machado032/Rafael-Machado032i/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rafael-Machado032/Rafael-Machado032/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Rafael-Machado032/Rafael-Machado032/output/github-snake.svg" />
+</picture>
 
 ---
 
