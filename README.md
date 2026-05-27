@@ -23,7 +23,14 @@ Sou **Desenvolvedor Full Stack** com sólida bagagem em infraestrutura de TI, co
 ## 🐍 Meu Tabuleiro de Contribuições
 
 <div align="center">
-  <img alt="GitHub Snake Game" src="https://githubusercontent.com/Rafael-Machado032/Rafael-Machado032/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  <picture>
+    <!-- Se o visitante usar Modo Escuro, carrega o tema dark -->
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rafael-Machado032/Rafael-Machado032/output/github-contribution-grid-snake-dark.svg">
+    <!-- Se o visitante usar Modo Claro, carrega o tema padrão -->
+    <source media="(prefers-color-scheme: light)" srcset="https://githubusercontent.com">
+    <!-- Imagem padrão de segurança -->
+    <img alt="GitHub Snake Game" src="https://githubusercontent.com" width="100%" />
+  </picture>
 </div>
 
 
