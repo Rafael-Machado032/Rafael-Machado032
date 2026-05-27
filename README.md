@@ -4,8 +4,8 @@ Sou **Desenvolvedor Full Stack** com sólida bagagem em infraestrutura de TI, co
 
 ## 🛠️ Tecnologias e Ferramentas
 
-- **Backend:** ![image](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) / ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) / Node.js / APIs RESTful
-- **Frontend:** Next.js / React / TypeScript / Tailwind CSS
+- **Backend:** ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) / ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) / ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) / APIs RESTful
+- **Frontend:** ![Next.js](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) / React / TypeScript / Tailwind CSS
 - **Bancos de Dados:** MySQL / PostgreSQL
 - **Infraestrutura & Redes:** Linux / MikroTik / Protocolo SIP / Redes IP
 
