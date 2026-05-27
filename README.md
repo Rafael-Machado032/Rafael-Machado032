@@ -12,8 +12,8 @@ Sou **Desenvolvedor Full Stack** com sólida bagagem em infraestrutura de TI, co
 ## 📊 Minhas Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats-ten-eta-91.vercel.app/api?username=Rafael-Machado032&show_icons=true&theme=dark&include_all_commits=false&locale=pt-br" height="100" alt="Estatísticas do GitHub"/>
-<img src="https://streak-stats.demolab.com?user=Rafael-Machado032&theme=dark&locale=pt_BR" alt="GitHub Streak" height="100"/>
+  <img src="https://github-readme-stats-ten-eta-91.vercel.app/api?username=Rafael-Machado032&show_icons=true&theme=dark&include_all_commits=false&locale=pt-br" height="150" alt="Estatísticas do GitHub"/>
+<img src="https://streak-stats.demolab.com?user=Rafael-Machado032&theme=dark&locale=pt_BR" alt="GitHub Streak" height="150"/>
 </p>
 
 <p align="center">
