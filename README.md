@@ -23,9 +23,11 @@ Sou **Desenvolvedor Full Stack** com sólida bagagem em infraestrutura de TI, co
 
 ## 🐍 Meu Tabuleiro de Contribuições
 
-<div align="center">
-  <img alt="GitHub Snake Game" src="https://githubusercontent.com" width="100%" />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 
 
