@@ -11,15 +11,15 @@ Sou **Desenvolvedor Full Stack** com sólida bagagem em infraestrutura de TI, co
 
 ## 📊 Minhas Estatísticas do GitHub
 
-<p align="left">
-  <img src="https://github-readme-stats-ten-eta-91.vercel.app/api?username=Rafael-Machado032&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br&card_width=500px" alt="Estatísticas do GitHub"/>
-  <img src="https://github-readme-stats-ten-eta-91.vercel.app/api/top-langs/?username=Rafael-Machado032&layout=compact&locale=pt-br" alt="Linguagens Mais Usadas" />
+<p align="center">
+  <img src="https://github-readme-stats-ten-eta-91.vercel.app/api?username=Rafael-Machado032&show_icons=true&theme=dark&include_all_commits=false&locale=pt-br" height="160" alt="Estatísticas do GitHub"/>
+ <img src="https://github-readme-stats-ten-eta-91.vercel.app/api/streak?username=Rafael-Machado032&locale=pt-br" alt="" />
 </p>
 
-<div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Rafael-Machado032&theme=radical&hide_border=false&include_all_commits=false&count_private=false" height="160" alt="stats graph" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cRafael-Machado032&theme=radical&hide_border=false" height="160" alt="streak graph" />
-</div>
+<p align="center">
+   <img src="https://github-readme-stats-ten-eta-91.vercel.app/api/top-langs/?username=Rafael-Machado032&layout=compact&locale=pt-br" alt="Linguagens Mais Usadas" />
+</p>
+
 
 
 ---
