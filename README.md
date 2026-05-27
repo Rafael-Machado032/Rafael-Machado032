@@ -4,7 +4,7 @@ Sou **Desenvolvedor Full Stack** com sólida bagagem em infraestrutura de TI, co
 
 ## 🛠️ Tecnologias e Ferramentas
 
-- **Backend:** PHP <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/> / Laravel / Node.js / APIs RESTful
+- **Backend:** PHP ![image](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) / Laravel / Node.js / APIs RESTful
 - **Frontend:** Next.js / React / TypeScript / Tailwind CSS
 - **Bancos de Dados:** MySQL / PostgreSQL
 - **Infraestrutura & Redes:** Linux / MikroTik / Protocolo SIP / Redes IP
