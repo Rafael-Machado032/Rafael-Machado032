@@ -17,7 +17,7 @@ Sou **Desenvolvedor Full Stack** com sólida bagagem em infraestrutura de TI, co
 </p>
 
 <p align="center">
-  <img src="https://vercel.app" height="170" alt="Estatísticas do GitHub"/>
+  <img src="https://github-readme-stats-ten-eta-91.vercel.app" height="170" alt="Estatísticas do GitHub"/>
   <img src="https://streak-stats.demolab.com?user=Rafael-Machado032&theme=dark&locale=pt_BR" alt="GitHub Streak" height="170"/>
 </p>
 
